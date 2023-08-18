@@ -176,3 +176,4 @@ char *getEnvi(const char *name, char **env)
 
 	return (NULL);
 }
+
