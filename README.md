@@ -1,7 +1,8 @@
-README.md
+# C - Simple Shell
+
 A Shell is a program that takes the command inputs written from the the user’s keyboard and passes them to the machine to execute them through the kernel. It also verifies if the command inputs from the user are correct.  Every shell has two operating modes:
 
-Interactive and Non-interactive.
+* Interactive and Non-interactive.
 
 In Interactive mode, the shell displays a prompt ($) indicating that the user can write and execute a command. After the command is run, the prompt will appear again as wait for a new command. This can go indefinitely as long as the user does not exit the shell.
 
